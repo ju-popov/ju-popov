@@ -10,27 +10,27 @@
 
 ### Connect with me:
 
-[<img align="left" alt="anonymous.bg" width="40px" src="https://static.wixstatic.com/media/fc8d9f_e1d6563ba7ce436da06dac34816eb6cc~mv2.jpeg" />][website]
-[<img align="left" alt="LinkedIn" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img align="left" alt="Stack Overflow" width="40px" src="https://avatars.githubusercontent.com/u/1393171" />][stackoverflow]
-[<img align="left" alt="Goodreads" width="40px" src="https://avatars.githubusercontent.com/u/1386325" />][goodreads]
-[<img align="left" alt="Spotify" width="40px" src="https://avatars.githubusercontent.com/u/251374" />][spotify]  
+[<img alt="anonymous.bg" width="40px" src="https://static.wixstatic.com/media/fc8d9f_e1d6563ba7ce436da06dac34816eb6cc~mv2.jpeg" />][website]
+[<img alt="LinkedIn" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img alt="Stack Overflow" width="40px" src="https://avatars.githubusercontent.com/u/1393171" />][stackoverflow]
+[<img alt="Goodreads" width="40px" src="https://avatars.githubusercontent.com/u/1386325" />][goodreads]
+[<img alt="Spotify" width="40px" src="https://avatars.githubusercontent.com/u/251374" />][spotify]  
 
-<br /><br />  
+<br /><br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Go" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />][go]
-[<img align="left" alt="Ruby" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" />][ruby]
-[<img align="left" alt="PostgreSQL" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />][postgresql]
-[<img align="left" alt="Docker" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />][docker]
-[<img align="left" alt="Kubernetes" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />][kubernetes]
-[<img align="left" alt="Python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />][python]
-[<img align="left" alt="C#" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />][csharp]
-[<img align="left" alt="Java" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />][java]
-[<img align="left" alt="PHP" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />][php]
-[<img align="left" alt="C++" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />][cpp]
-[<img align="left" alt="C" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />][c]  
+[<img alt="Go" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />][go]
+[<img alt="Ruby" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" />][ruby]
+[<img alt="PostgreSQL" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />][postgresql]
+[<img alt="Docker" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />][docker]
+[<img alt="Kubernetes" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />][kubernetes]
+[<img alt="Python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />][python]
+[<img alt="C#" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />][csharp]
+[<img alt="Java" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />][java]
+[<img alt="PHP" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />][php]
+[<img alt="C++" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />][cpp]
+[<img alt="C" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />][c]  
 
 <br />  
 <br />  
