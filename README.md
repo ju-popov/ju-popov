@@ -14,7 +14,7 @@
 [<img align="left" alt="LinkedIn" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="Stack Overflow" width="40px" src="https://avatars.githubusercontent.com/u/1393171" />][stackoverflow]
 
-<br />
+<br /><br />
 
 ### Languages and Tools:
 
