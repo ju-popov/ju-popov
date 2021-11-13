@@ -14,9 +14,9 @@
 [<img align="left" alt="LinkedIn" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="Stack Overflow" width="40px" src="https://avatars.githubusercontent.com/u/1393171" />][stackoverflow]
 [<img align="left" alt="Goodreads" width="40px" src="https://avatars.githubusercontent.com/u/1386325" />][goodreads]
-[<img align="left" alt="Spotify" width="40px" src="https://avatars.githubusercontent.com/u/251374" />][spotify]
+[<img align="left" alt="Spotify" width="40px" src="https://avatars.githubusercontent.com/u/251374" />][spotify]  
 
-<br /><br />
+<br /><br />  
 
 ### Languages and Tools:
 
@@ -30,13 +30,13 @@
 [<img align="left" alt="Java" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />][java]
 [<img align="left" alt="PHP" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />][php]
 [<img align="left" alt="C++" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />][cpp]
-[<img align="left" alt="C" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />][c]
+[<img align="left" alt="C" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />][c]  
 
-<br />
-<br />
+<br />  
+<br />  
 
----
-
+---  
+  
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
