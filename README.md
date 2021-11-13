@@ -16,8 +16,6 @@
 [<img alt="Goodreads" width="40px" src="https://avatars.githubusercontent.com/u/1386325" />][goodreads]
 [<img alt="Spotify" width="40px" src="https://avatars.githubusercontent.com/u/251374" />][spotify]  
 
-<br /><br />
-
 ### Languages and Tools:
 
 [<img alt="Go" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />][go]
@@ -31,9 +29,6 @@
 [<img alt="PHP" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />][php]
 [<img alt="C++" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />][cpp]
 [<img alt="C" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />][c]  
-
-<br />  
-<br />  
 
 ---  
   
