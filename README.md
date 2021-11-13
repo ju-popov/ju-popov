@@ -5,7 +5,7 @@
 - 🔭 Knows how the universe works
 - 🧑🏻‍💻 All-Ends Developer
 - ✨ Mediator
-- 💭 Frequently dreamed person
+- 😴 Frequently dreamed person
 - 💉 Vaccinated
 
 ### Connect with me:
