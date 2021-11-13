@@ -35,6 +35,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Next Level GitHub Profile README | How To Create An Amazing Profile ReadMe With GitHub Actions](https://blog.anonymous.bg/2021/11/13/next-level-github-profile-readme-how-to-create-an-amazing-profile-readme-with-github-actions/)
 - [Dynamic Programming – Learn to Solve Algorithmic Problems &amp; Coding Challenges](https://blog.anonymous.bg/2021/11/13/dynamic-programming-learn-to-solve-algorithmic-problems-coding-challenges/)
 - [Opioid Tragedy: Inside the Fentanyl Crisis | Ten Dollar Death Trip | ENDEVR Documentary](https://blog.anonymous.bg/2021/11/12/opioid-tragedy-inside-the-fentanyl-crisis-ten-dollar-death-trip-endevr-documentary/)
 - [C in 100 Seconds](https://blog.anonymous.bg/2021/11/12/c-in-100-seconds/)
