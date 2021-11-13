@@ -30,9 +30,7 @@
 [<img alt="C++" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />][cpp]
 [<img alt="C" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />][c]  
 
----  
-  
-### 📕 Latest Blog Posts
+### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Next Level GitHub Profile README | How To Create An Amazing Profile ReadMe With GitHub Actions](https://blog.anonymous.bg/2021/11/13/next-level-github-profile-readme-how-to-create-an-amazing-profile-readme-with-github-actions/)
