@@ -13,6 +13,8 @@
 [<img align="left" alt="anonymous.bg" width="40px" src="https://static.wixstatic.com/media/fc8d9f_e1d6563ba7ce436da06dac34816eb6cc~mv2.jpeg" />][website]
 [<img align="left" alt="LinkedIn" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="Stack Overflow" width="40px" src="https://avatars.githubusercontent.com/u/1393171" />][stackoverflow]
+[<img align="left" alt="Goodreads" width="40px" src="https://avatars.githubusercontent.com/u/1386325" />][goodreads]
+[<img align="left" alt="Spotify" width="40px" src="https://avatars.githubusercontent.com/u/251374" />][spotify]
 
 <br /><br />
 
