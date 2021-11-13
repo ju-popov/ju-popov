@@ -20,17 +20,17 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Go" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />][go]
-[<img align="left" alt="Ruby" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" />][ruby]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />][postgresql]
-[<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />][docker]
-[<img align="left" alt="Kubernetes" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />][kubernetes]
-[<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />][python]
-[<img align="left" alt="C#" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />][csharp]
-[<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />][java]
-[<img align="left" alt="PHP" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />][php]
-[<img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />][cpp]
-[<img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />][c]
+[<img align="left" alt="Go" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />][go]
+[<img align="left" alt="Ruby" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" />][ruby]
+[<img align="left" alt="PostgreSQL" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />][postgresql]
+[<img align="left" alt="Docker" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />][docker]
+[<img align="left" alt="Kubernetes" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />][kubernetes]
+[<img align="left" alt="Python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />][python]
+[<img align="left" alt="C#" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />][csharp]
+[<img align="left" alt="Java" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />][java]
+[<img align="left" alt="PHP" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />][php]
+[<img align="left" alt="C++" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />][cpp]
+[<img align="left" alt="C" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />][c]
 
 <br />
 <br />
