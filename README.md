@@ -10,11 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="anonymous.bg" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="-webkit-filter: invert(100%); filter: invert(100%);"/>][website]
+[<img align="left" alt="anonymous.bg" width="40px" src="https://static.wixstatic.com/media/fc8d9f_e1d6563ba7ce436da06dac34816eb6cc~mv2.jpeg" />][website]
 [<img align="left" alt="LinkedIn" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img align="left" alt="Stack Overflow" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="Goodreads" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/goodreads.svg" />][goodreads]
-[<img align="left" alt="Spotify" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
+[<img align="left" alt="Stack Overflow" width="40px" src="https://avatars.githubusercontent.com/u/1393171" />][stackoverflow]
 
 <br />
 
