@@ -40,6 +40,15 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dynamic Programming – Learn to Solve Algorithmic Problems &amp; Coding Challenges](https://blog.anonymous.bg/2021/11/13/dynamic-programming-learn-to-solve-algorithmic-problems-coding-challenges/)
+- [Opioid Tragedy: Inside the Fentanyl Crisis | Ten Dollar Death Trip | ENDEVR Documentary](https://blog.anonymous.bg/2021/11/12/opioid-tragedy-inside-the-fentanyl-crisis-ten-dollar-death-trip-endevr-documentary/)
+- [C in 100 Seconds](https://blog.anonymous.bg/2021/11/12/c-in-100-seconds/)
+- [Hunting Down Incel Extremists | Investigators](https://blog.anonymous.bg/2021/11/12/hunting-down-incel-extremists-investigators/)
+- [Micro-Frontends Course – Beginner to Expert](https://blog.anonymous.bg/2021/11/12/micro-frontends-course-beginner-to-expert/)
+- [United States of Secrets | FRONTLINE](https://blog.anonymous.bg/2021/11/12/united-states-of-secrets-frontline/)
+- [The Power of the Fed | FRONTLINE](https://blog.anonymous.bg/2021/11/12/the-power-of-the-fed-frontline/)
+- [Liberal Hypocrisy is Fueling American Inequality. Here’s How. | NYT Opinion](https://blog.anonymous.bg/2021/11/12/liberal-hypocrisy-is-fueling-american-inequality-heres-how-nyt-opinion/)
+- [What is an NFT? &lpar;Non-Fungible Tokens Explained&rpar;](https://blog.anonymous.bg/2021/11/12/what-is-an-nft-non-fungible-tokens-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][blog]
