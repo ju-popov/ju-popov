@@ -1,4 +1,4 @@
-### Hi, My Name is Julian Popov. 👋 
+### Hi, My Name is Julian Popov 👋 
 
 ## I'm a software engineer!
 
@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="anonymous.bg" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="anonymous.bg" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="-webkit-filter: invert(100%); filter: invert(100%);"/>][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="Goodreads" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/goodreads.svg" />][goodreads]
