@@ -33,6 +33,7 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Талибский спецназ / Почему простые афганцы поддерживают талибов / Как США сдали страну Талибану?](https://blog.anonymous.bg/2021/11/15/%d1%82%d0%b0%d0%bb%d0%b8%d0%b1%d1%81%d0%ba%d0%b8%d0%b9-%d1%81%d0%bf%d0%b5%d1%86%d0%bd%d0%b0%d0%b7-%d0%bf%d0%be%d1%87%d0%b5%d0%bc%d1%83-%d0%bf%d1%80%d0%be%d1%81%d1%82%d1%8b%d0%b5-%d0%b0%d1%84%d0%b3/)
 - [Prepare for Armageddon: China’s warning to the world | 60 Minutes Australia](https://blog.anonymous.bg/2021/11/14/prepare-for-armageddon-chinas-warning-to-the-world-60-minutes-australia/)
 - [Next Level GitHub Profile README | How To Create An Amazing Profile ReadMe With GitHub Actions](https://blog.anonymous.bg/2021/11/13/next-level-github-profile-readme-how-to-create-an-amazing-profile-readme-with-github-actions/)
 - [Dynamic Programming – Learn to Solve Algorithmic Problems &amp; Coding Challenges](https://blog.anonymous.bg/2021/11/13/dynamic-programming-learn-to-solve-algorithmic-problems-coding-challenges/)
@@ -42,7 +43,6 @@
 - [Micro-Frontends Course – Beginner to Expert](https://blog.anonymous.bg/2021/11/12/micro-frontends-course-beginner-to-expert/)
 - [United States of Secrets | FRONTLINE](https://blog.anonymous.bg/2021/11/12/united-states-of-secrets-frontline/)
 - [The Power of the Fed | FRONTLINE](https://blog.anonymous.bg/2021/11/12/the-power-of-the-fed-frontline/)
-- [Liberal Hypocrisy is Fueling American Inequality. Here’s How. | NYT Opinion](https://blog.anonymous.bg/2021/11/12/liberal-hypocrisy-is-fueling-american-inequality-heres-how-nyt-opinion/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][blog]
