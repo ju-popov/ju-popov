@@ -34,6 +34,7 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Tyrannical Mods of Stack Overflow](https://blog.anonymous.bg/2021/11/28/the-tyrannical-mods-of-stack-overflow/)
 - [Solve Coding Interview Backtracking Problems – Crash Course](https://blog.anonymous.bg/2021/11/19/solve-coding-interview-backtracking-problems-crash-course/)
 - [Bulgaria Election: How a Brand New Anti-Corruption Party Won – TLDR News](https://blog.anonymous.bg/2021/11/19/bulgaria-election-how-a-brand-new-anti-corruption-party-won-tldr-news/)
 - [Талибский спецназ / Почему простые афганцы поддерживают талибов / Как США сдали страну Талибану?](https://blog.anonymous.bg/2021/11/15/%d1%82%d0%b0%d0%bb%d0%b8%d0%b1%d1%81%d0%ba%d0%b8%d0%b9-%d1%81%d0%bf%d0%b5%d1%86%d0%bd%d0%b0%d0%b7-%d0%bf%d0%be%d1%87%d0%b5%d0%bc%d1%83-%d0%bf%d1%80%d0%be%d1%81%d1%82%d1%8b%d0%b5-%d0%b0%d1%84%d0%b3/)
@@ -43,7 +44,6 @@
 - [Opioid Tragedy: Inside the Fentanyl Crisis | Ten Dollar Death Trip | ENDEVR Documentary](https://blog.anonymous.bg/2021/11/12/opioid-tragedy-inside-the-fentanyl-crisis-ten-dollar-death-trip-endevr-documentary/)
 - [C in 100 Seconds](https://blog.anonymous.bg/2021/11/12/c-in-100-seconds/)
 - [Hunting Down Incel Extremists | Investigators](https://blog.anonymous.bg/2021/11/12/hunting-down-incel-extremists-investigators/)
-- [Micro-Frontends Course – Beginner to Expert](https://blog.anonymous.bg/2021/11/12/micro-frontends-course-beginner-to-expert/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][blog]
