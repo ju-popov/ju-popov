@@ -34,6 +34,7 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Linked Lists for Technical Interviews – Full Course](https://blog.anonymous.bg/2021/12/16/linked-lists-for-technical-interviews-full-course/)
 - [How to AVOID Crypto Taxes – 4 Legal Examples &lpar;Beginner to Advanced&rpar;](https://blog.anonymous.bg/2021/12/11/how-to-avoid-crypto-taxes-4-legal-examples-beginner-to-advanced/)
 - [US wins appeal over extradition of WikiLeaks founder Assange](https://blog.anonymous.bg/2021/12/10/us-wins-appeal-over-extradition-of-wikileaks-founder-assange/)
 - [Is Web3 all Hype? Top 10 Web 3.0 Questions &amp; Answers](https://blog.anonymous.bg/2021/12/10/is-web3-all-hype-top-10-web-3-0-questions-answers/)
@@ -43,7 +44,6 @@
 - [Solve Coding Interview Backtracking Problems – Crash Course](https://blog.anonymous.bg/2021/11/19/solve-coding-interview-backtracking-problems-crash-course/)
 - [Bulgaria Election: How a Brand New Anti-Corruption Party Won – TLDR News](https://blog.anonymous.bg/2021/11/19/bulgaria-election-how-a-brand-new-anti-corruption-party-won-tldr-news/)
 - [Талибский спецназ / Почему простые афганцы поддерживают талибов / Как США сдали страну Талибану?](https://blog.anonymous.bg/2021/11/15/%d1%82%d0%b0%d0%bb%d0%b8%d0%b1%d1%81%d0%ba%d0%b8%d0%b9-%d1%81%d0%bf%d0%b5%d1%86%d0%bd%d0%b0%d0%b7-%d0%bf%d0%be%d1%87%d0%b5%d0%bc%d1%83-%d0%bf%d1%80%d0%be%d1%81%d1%82%d1%8b%d0%b5-%d0%b0%d1%84%d0%b3/)
-- [Prepare for Armageddon: China’s warning to the world | 60 Minutes Australia](https://blog.anonymous.bg/2021/11/14/prepare-for-armageddon-chinas-warning-to-the-world-60-minutes-australia/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][blog]
