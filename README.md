@@ -34,16 +34,16 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Uber Story: Fraud, Betrayal, Death &amp; Cars](https://blog.anonymous.bg/2021/12/20/the-uber-story-fraud-betrayal-death-cars/)
+- [The Matrix Awakens: An Unreal Engine 5 Experience](https://blog.anonymous.bg/2021/12/20/the-matrix-awakens-an-unreal-engine-5-experience/)
+- [Is Proton Mail Really Private, Secure, and Anonymous?](https://blog.anonymous.bg/2021/12/20/is-proton-mail-really-private-secure-and-anonymous/)
+- [How Monero Works &lpar;And Why its a Better Currency Than BTC&rpar;](https://blog.anonymous.bg/2021/12/20/how-monero-works-and-why-its-a-better-currency-than-btc/)
+- [Taiwan vs. China – The rocky road to democracy | DW Documentary](https://blog.anonymous.bg/2021/12/20/taiwan-vs-china-the-rocky-road-to-democracy-dw-documentary/)
+- [The Fed Plans to Taper. Here’s What That Means. | WSJ](https://blog.anonymous.bg/2021/12/20/the-fed-plans-to-taper-heres-what-that-means-wsj/)
+- [MythBusting The DarkWeb](https://blog.anonymous.bg/2021/12/20/mythbusting-the-darkweb/)
+- [The Real Deal with VPNs &lpar;Don’t Trust VPN Ads&rpar;](https://blog.anonymous.bg/2021/12/20/the-real-deal-with-vpns-dont-trust-vpn-ads/)
 - [Linked Lists for Technical Interviews – Full Course](https://blog.anonymous.bg/2021/12/16/linked-lists-for-technical-interviews-full-course/)
 - [How to AVOID Crypto Taxes – 4 Legal Examples &lpar;Beginner to Advanced&rpar;](https://blog.anonymous.bg/2021/12/11/how-to-avoid-crypto-taxes-4-legal-examples-beginner-to-advanced/)
-- [US wins appeal over extradition of WikiLeaks founder Assange](https://blog.anonymous.bg/2021/12/10/us-wins-appeal-over-extradition-of-wikileaks-founder-assange/)
-- [Is Web3 all Hype? Top 10 Web 3.0 Questions &amp; Answers](https://blog.anonymous.bg/2021/12/10/is-web3-all-hype-top-10-web-3-0-questions-answers/)
-- [ETF Investing for Europeans in 2022 – How to use Interactive Brokers, Degiro, Flatex and more](https://blog.anonymous.bg/2021/12/10/etf-investing-for-europeans-in-2022-how-to-use-interactive-brokers-degiro-flatex-and-more/)
-- [Fleet — All New Next Generation IDE By JetBrains](https://blog.anonymous.bg/2021/12/10/fleet-all-new-next-generation-ide-by-jetbrains/)
-- [The Tyrannical Mods of Stack Overflow](https://blog.anonymous.bg/2021/11/28/the-tyrannical-mods-of-stack-overflow/)
-- [Solve Coding Interview Backtracking Problems – Crash Course](https://blog.anonymous.bg/2021/11/19/solve-coding-interview-backtracking-problems-crash-course/)
-- [Bulgaria Election: How a Brand New Anti-Corruption Party Won – TLDR News](https://blog.anonymous.bg/2021/11/19/bulgaria-election-how-a-brand-new-anti-corruption-party-won-tldr-news/)
-- [Талибский спецназ / Почему простые афганцы поддерживают талибов / Как США сдали страну Талибану?](https://blog.anonymous.bg/2021/11/15/%d1%82%d0%b0%d0%bb%d0%b8%d0%b1%d1%81%d0%ba%d0%b8%d0%b9-%d1%81%d0%bf%d0%b5%d1%86%d0%bd%d0%b0%d0%b7-%d0%bf%d0%be%d1%87%d0%b5%d0%bc%d1%83-%d0%bf%d1%80%d0%be%d1%81%d1%82%d1%8b%d0%b5-%d0%b0%d1%84%d0%b3/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][blog]
