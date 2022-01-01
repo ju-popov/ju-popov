@@ -34,16 +34,16 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Taliban’s Terrorist Problem](https://blog.anonymous.bg/2022/01/01/the-talibans-terrorist-problem/)
+- [Why Are There So Many Movie Theater Formats? | Movies Insider](https://blog.anonymous.bg/2022/01/01/why-are-there-so-many-movie-theater-formats-movies-insider/)
+- [How to do RESEARCH on a Cryptocurrency Coin or Token &lpar;DYOR&rpar;](https://blog.anonymous.bg/2022/01/01/how-to-do-research-on-a-cryptocurrency-coin-or-token-dyor/)
+- [What is Cardano? ADA Explained with Animations](https://blog.anonymous.bg/2022/01/01/what-is-cardano-ada-explained-with-animations/)
+- [What is Monero? XMR Explained with Animations](https://blog.anonymous.bg/2022/01/01/what-is-monero-xmr-explained-with-animations/)
+- [Twitter: A Business Built on Lies &amp; Betrayal](https://blog.anonymous.bg/2022/01/01/twitter-a-business-built-on-lies-betrayal/)
+- [What is Ethereum Gas? &lpar;Examples + Easy Explanation&rpar;](https://blog.anonymous.bg/2022/01/01/what-is-ethereum-gas-examples-easy-explanation/)
+- [Ethereum 2.0 Upgrades Explained – Sharding, Beacon Chain, Proof of Stake &lpar;Animated&rpar;](https://blog.anonymous.bg/2022/01/01/ethereum-2-0-upgrades-explained-sharding-beacon-chain-proof-of-stake-animated/)
+- [Just Got A PS5? WATCH THIS FIRST!!! PS5 Setup, Tips &amp; Tricks, Everything You Should Know](https://blog.anonymous.bg/2022/01/01/just-got-a-ps5-watch-this-first-ps5-setup-tips-tricks-everything-you-should-know/)
 - [The Uber Story: Fraud, Betrayal, Death &amp; Cars](https://blog.anonymous.bg/2021/12/20/the-uber-story-fraud-betrayal-death-cars/)
-- [The Matrix Awakens: An Unreal Engine 5 Experience](https://blog.anonymous.bg/2021/12/20/the-matrix-awakens-an-unreal-engine-5-experience/)
-- [Is Proton Mail Really Private, Secure, and Anonymous?](https://blog.anonymous.bg/2021/12/20/is-proton-mail-really-private-secure-and-anonymous/)
-- [How Monero Works &lpar;And Why its a Better Currency Than BTC&rpar;](https://blog.anonymous.bg/2021/12/20/how-monero-works-and-why-its-a-better-currency-than-btc/)
-- [Taiwan vs. China – The rocky road to democracy | DW Documentary](https://blog.anonymous.bg/2021/12/20/taiwan-vs-china-the-rocky-road-to-democracy-dw-documentary/)
-- [The Fed Plans to Taper. Here’s What That Means. | WSJ](https://blog.anonymous.bg/2021/12/20/the-fed-plans-to-taper-heres-what-that-means-wsj/)
-- [MythBusting The DarkWeb](https://blog.anonymous.bg/2021/12/20/mythbusting-the-darkweb/)
-- [The Real Deal with VPNs &lpar;Don’t Trust VPN Ads&rpar;](https://blog.anonymous.bg/2021/12/20/the-real-deal-with-vpns-dont-trust-vpn-ads/)
-- [Linked Lists for Technical Interviews – Full Course](https://blog.anonymous.bg/2021/12/16/linked-lists-for-technical-interviews-full-course/)
-- [How to AVOID Crypto Taxes – 4 Legal Examples &lpar;Beginner to Advanced&rpar;](https://blog.anonymous.bg/2021/12/11/how-to-avoid-crypto-taxes-4-legal-examples-beginner-to-advanced/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][blog]
