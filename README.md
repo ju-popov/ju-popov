@@ -34,6 +34,7 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Really Happened to Capitol Police During the Insurrection](https://blog.anonymous.bg/2022/01/11/what-really-happened-to-capitol-police-during-the-insurrection/)
 - [The Taliban’s Terrorist Problem](https://blog.anonymous.bg/2022/01/01/the-talibans-terrorist-problem/)
 - [Why Are There So Many Movie Theater Formats? | Movies Insider](https://blog.anonymous.bg/2022/01/01/why-are-there-so-many-movie-theater-formats-movies-insider/)
 - [How to do RESEARCH on a Cryptocurrency Coin or Token &lpar;DYOR&rpar;](https://blog.anonymous.bg/2022/01/01/how-to-do-research-on-a-cryptocurrency-coin-or-token-dyor/)
@@ -43,7 +44,6 @@
 - [What is Ethereum Gas? &lpar;Examples + Easy Explanation&rpar;](https://blog.anonymous.bg/2022/01/01/what-is-ethereum-gas-examples-easy-explanation/)
 - [Ethereum 2.0 Upgrades Explained – Sharding, Beacon Chain, Proof of Stake &lpar;Animated&rpar;](https://blog.anonymous.bg/2022/01/01/ethereum-2-0-upgrades-explained-sharding-beacon-chain-proof-of-stake-animated/)
 - [Just Got A PS5? WATCH THIS FIRST!!! PS5 Setup, Tips &amp; Tricks, Everything You Should Know](https://blog.anonymous.bg/2022/01/01/just-got-a-ps5-watch-this-first-ps5-setup-tips-tricks-everything-you-should-know/)
-- [The Uber Story: Fraud, Betrayal, Death &amp; Cars](https://blog.anonymous.bg/2021/12/20/the-uber-story-fraud-betrayal-death-cars/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][blog]
