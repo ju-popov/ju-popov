@@ -34,6 +34,8 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Taliban spokesperson defends Afghanistan government’s actions | DW Interview](https://blog.anonymous.bg/2022/01/14/taliban-spokesperson-defends-afghanistan-governments-actions-dw-interview/)
+- [Ицо Хазарта за депутатите на “Възраждане”: Законът само за мен ли важи или и за шепа фашисти](https://blog.anonymous.bg/2022/01/14/%d0%b8%d1%86%d0%be-%d1%85%d0%b0%d0%b7%d0%b0%d1%80%d1%82%d0%b0-%d0%b7%d0%b0-%d0%b4%d0%b5%d0%bf%d1%83%d1%82%d0%b0%d1%82%d0%b8%d1%82%d0%b5-%d0%bd%d0%b0-%d0%b2%d1%8a%d0%b7%d1%80%d0%b0%d0%b6%d0%b4%d0%b0/)
 - [What Really Happened to Capitol Police During the Insurrection](https://blog.anonymous.bg/2022/01/11/what-really-happened-to-capitol-police-during-the-insurrection/)
 - [The Taliban’s Terrorist Problem](https://blog.anonymous.bg/2022/01/01/the-talibans-terrorist-problem/)
 - [Why Are There So Many Movie Theater Formats? | Movies Insider](https://blog.anonymous.bg/2022/01/01/why-are-there-so-many-movie-theater-formats-movies-insider/)
@@ -42,8 +44,6 @@
 - [What is Monero? XMR Explained with Animations](https://blog.anonymous.bg/2022/01/01/what-is-monero-xmr-explained-with-animations/)
 - [Twitter: A Business Built on Lies &amp; Betrayal](https://blog.anonymous.bg/2022/01/01/twitter-a-business-built-on-lies-betrayal/)
 - [What is Ethereum Gas? &lpar;Examples + Easy Explanation&rpar;](https://blog.anonymous.bg/2022/01/01/what-is-ethereum-gas-examples-easy-explanation/)
-- [Ethereum 2.0 Upgrades Explained – Sharding, Beacon Chain, Proof of Stake &lpar;Animated&rpar;](https://blog.anonymous.bg/2022/01/01/ethereum-2-0-upgrades-explained-sharding-beacon-chain-proof-of-stake-animated/)
-- [Just Got A PS5? WATCH THIS FIRST!!! PS5 Setup, Tips &amp; Tricks, Everything You Should Know](https://blog.anonymous.bg/2022/01/01/just-got-a-ps5-watch-this-first-ps5-setup-tips-tricks-everything-you-should-know/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][blog]
