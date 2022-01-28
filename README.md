@@ -34,6 +34,8 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Line Goes Up – The Problem With NFTs](https://blog.anonymous.bg/2022/01/28/line-goes-up-the-problem-with-nfts/)
+- [Russia-Ukraine conflict: Is Germany letting the West down? | To the point](https://blog.anonymous.bg/2022/01/28/russia-ukraine-conflict-is-germany-letting-the-west-down-to-the-point/)
 - [Build a WEB3 app to mint unlimited NFTs… But should you?](https://blog.anonymous.bg/2022/01/28/build-a-web3-app-to-mint-unlimited-nfts-but-should-you/)
 - [Какво иска Путин и защо го иска](https://blog.anonymous.bg/2022/01/28/%d0%ba%d0%b0%d0%ba%d0%b2%d0%be-%d0%b8%d1%81%d0%ba%d0%b0-%d0%bf%d1%83%d1%82%d0%b8%d0%bd-%d0%b8-%d0%b7%d0%b0%d1%89%d0%be-%d0%b3%d0%be-%d0%b8%d1%81%d0%ba%d0%b0/)
 - [NATO on the move: How likely is Russia to attack Ukraine? | DW News](https://blog.anonymous.bg/2022/01/28/nato-on-the-move-how-likely-is-russia-to-attack-ukraine-dw-news/)
@@ -42,8 +44,6 @@
 - [Russia reacts to NATO response on security demands — MAIN BITS](https://blog.anonymous.bg/2022/01/28/russia-reacts-to-nato-response-on-security-demands-main-bits/)
 - [Web Development In 2022 – A Practical Guide](https://blog.anonymous.bg/2022/01/17/web-development-in-2022-a-practical-guide/)
 - [Internet History, Technology, and Security – Full Course from Dr. Chuck](https://blog.anonymous.bg/2022/01/17/internet-history-technology-and-security-full-course-from-dr-chuck/)
-- [How To Become a Highly Paid Blockchain Developer in 2022](https://blog.anonymous.bg/2022/01/14/how-to-become-a-highly-paid-blockchain-developer-in-2022/)
-- [How Big Are Video Games?](https://blog.anonymous.bg/2022/01/14/how-big-are-video-games/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][blog]
