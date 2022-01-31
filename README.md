@@ -34,6 +34,7 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Russia’s Economy is Immune to Western Sanctions](https://blog.anonymous.bg/2022/01/31/why-russias-economy-is-immune-to-western-sanctions/)
 - [Line Goes Up – The Problem With NFTs](https://blog.anonymous.bg/2022/01/28/line-goes-up-the-problem-with-nfts/)
 - [Russia-Ukraine conflict: Is Germany letting the West down? | To the point](https://blog.anonymous.bg/2022/01/28/russia-ukraine-conflict-is-germany-letting-the-west-down-to-the-point/)
 - [Build a WEB3 app to mint unlimited NFTs… But should you?](https://blog.anonymous.bg/2022/01/28/build-a-web3-app-to-mint-unlimited-nfts-but-should-you/)
@@ -43,7 +44,6 @@
 - [Ukraine-Russia crisis: What’s Russia’s problem with NATO?](https://blog.anonymous.bg/2022/01/28/ukraine-russia-crisis-whats-russias-problem-with-nato/)
 - [Russia reacts to NATO response on security demands — MAIN BITS](https://blog.anonymous.bg/2022/01/28/russia-reacts-to-nato-response-on-security-demands-main-bits/)
 - [Web Development In 2022 – A Practical Guide](https://blog.anonymous.bg/2022/01/17/web-development-in-2022-a-practical-guide/)
-- [Internet History, Technology, and Security – Full Course from Dr. Chuck](https://blog.anonymous.bg/2022/01/17/internet-history-technology-and-security-full-course-from-dr-chuck/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][blog]
