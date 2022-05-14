@@ -6,7 +6,6 @@
 - 🧑🏻‍💻 All-Ends Developer
 - ✨ Mediator
 - 😴 Frequently dreamed person
-- 💉 Vaccinated
 
 ### Connect with me:
 
@@ -30,23 +29,6 @@
 [<img alt="PHP" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />][php]
 [<img alt="C++" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />][cpp]
 [<img alt="C" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />][c]  
-
-### Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Why Russia’s Economy is Immune to Western Sanctions](https://blog.anonymous.bg/2022/01/31/why-russias-economy-is-immune-to-western-sanctions/)
-- [Line Goes Up – The Problem With NFTs](https://blog.anonymous.bg/2022/01/28/line-goes-up-the-problem-with-nfts/)
-- [Russia-Ukraine conflict: Is Germany letting the West down? | To the point](https://blog.anonymous.bg/2022/01/28/russia-ukraine-conflict-is-germany-letting-the-west-down-to-the-point/)
-- [Build a WEB3 app to mint unlimited NFTs… But should you?](https://blog.anonymous.bg/2022/01/28/build-a-web3-app-to-mint-unlimited-nfts-but-should-you/)
-- [Какво иска Путин и защо го иска](https://blog.anonymous.bg/2022/01/28/%d0%ba%d0%b0%d0%ba%d0%b2%d0%be-%d0%b8%d1%81%d0%ba%d0%b0-%d0%bf%d1%83%d1%82%d0%b8%d0%bd-%d0%b8-%d0%b7%d0%b0%d1%89%d0%be-%d0%b3%d0%be-%d0%b8%d1%81%d0%ba%d0%b0/)
-- [NATO on the move: How likely is Russia to attack Ukraine? | DW News](https://blog.anonymous.bg/2022/01/28/nato-on-the-move-how-likely-is-russia-to-attack-ukraine-dw-news/)
-- [How to buy Stocks with JavaScript // Algo Trading Tutorial for Dummies](https://blog.anonymous.bg/2022/01/28/how-to-buy-stocks-with-javascript-algo-trading-tutorial-for-dummies/)
-- [Ukraine-Russia crisis: What’s Russia’s problem with NATO?](https://blog.anonymous.bg/2022/01/28/ukraine-russia-crisis-whats-russias-problem-with-nato/)
-- [Russia reacts to NATO response on security demands — MAIN BITS](https://blog.anonymous.bg/2022/01/28/russia-reacts-to-nato-response-on-security-demands-main-bits/)
-- [Web Development In 2022 – A Practical Guide](https://blog.anonymous.bg/2022/01/17/web-development-in-2022-a-practical-guide/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...][blog]
 
 [website]: https://anonymous.bg/
 [linkedin]: https://www.linkedin.com/in/julianpopov/
